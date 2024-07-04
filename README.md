@@ -3,11 +3,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-  - [Automated Scraping](#1-automated-scraping)
-  - [Dynamic Leaderboard](#2-dynamic-leaderboard)
-  - [Performance Analysis](#3-performance-analysis)
-  - [WhatsApp Integration](#4-whatsapp-integration)
-  - [Automated Emails](#5-automated-emails)
 - [Advantages](#advantages)
 - [Technology Stack](#technology-stack)
 - [Showcase](#showcase)
@@ -17,13 +12,13 @@
     - [Use Cases of Google Apps Script](#use-cases-of-google-apps-script)
     - [Steps to Set Up Google Apps Script](#steps-to-set-up-google-apps-script)
   
-## Overview
+## Overview <a name="overview"></a>
 Welcome to the CodeChef Profile Tracker! This project is designed to enhance your experience with CodeChef challenges by bringing a competitive edge and community-driven motivation. 
 
 The CodeChef Profile Tracker automates the process of tracking and analyzing your progress on CodeChef, making it easy to see how you and your friends are performing over time. By utilizing this tool, you can foster a healthy, competitive environment where everyone is encouraged to improve their coding skills through regular participation in challenges.
 
 
-## Features
+## Features <a name="features"></a>
 
 ### 1. Automated Scraping
 ###### Effortlessly fetches CodeChef profile data, eliminating the need for manual input and ensuring accurate and up-to-date information.
@@ -40,20 +35,20 @@ The CodeChef Profile Tracker automates the process of tracking and analyzing you
 ### 5. Automated Emails
 ###### Motivational reports are sent directly to participants, acknowledging achievements and encouraging consistent engagement.
 
-## Advantages
+## Advantages <a name="advantages"></a>
 
 - **Motivation Boost:** Fosters friendly competition, driving increased participation and motivation within your CodeChef community.
 - **Skill Enhancement:** Promotes consistent problem-solving, leading to skill development and improvement over time.
 - **Efficiency:** Automated processes streamline data tracking, analysis, and communication, ensuring a seamless user experience.
 
-## Technology Stack
+## Technology Stack <a name="technology-stack"></a>
 
 - **Google Apps Script:** Leverages the power of Google Apps Script for seamless integration with Google services, providing a robust foundation for automation.
 - **Google Spreadsheet:** Centralizes data storage on Google Spreadsheet, facilitating easy access, organization, and reference for users.
 - **Gmail API:** Automates email communication through Gmail API, ensuring timely delivery of personalized performance reports.
 - **Real-time Web Scraping:** Utilizes real-time web scraping techniques to fetch the latest CodeChef profile data, keeping information up-to-date.
 
-## Showcase
+## Showcase <a name="showcase"></a>
 
 Explore the project in action through our carefully curated showcase, featuring images and a demo video. Witness firsthand the impact of the CodeChef Profile Tracker in boosting problem-solving skills within the community.
 
@@ -75,7 +70,7 @@ Explore the project in action through our carefully curated showcase, featuring 
 ### Leaderboard with candidate names of every week
 ![Leaderboard of all week's data](Leaderboard.png)
 
-## Getting Started
+## Getting Started <a name="getting-started"></a>
 
 1. **Spreadsheet Setup:**
 - Use the provided spreadsheet format as a template for your data [Template Spreadsheet](https://docs.google.com/spreadsheets/d/1DrZb8kZnnuUaxhDk4-R5SFUAyrjcJh35PiF7let53Yg/edit?usp=sharing).
@@ -123,3 +118,7 @@ Google Apps Script is a scripting platform developed by Google for light-weight 
 
 By following these steps, you can set up and start using Google Apps Script for your CodeChef Profile Tracker project.
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
