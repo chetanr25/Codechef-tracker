@@ -11,7 +11,7 @@
     - [What is Google Apps Script](#what-is-google-apps-script)
     - [Use Cases of Google Apps Script](#use-cases-of-google-apps-script)
     - [Steps to Set Up Google Apps Script](#steps-to-set-up-google-apps-script)
-  
+- [License](#license)
 ## Overview <a name="overview"></a>
 Welcome to the CodeChef Profile Tracker! This project is designed to enhance your experience with CodeChef challenges by bringing a competitive edge and community-driven motivation. 
 
@@ -119,6 +119,6 @@ Google Apps Script is a scripting platform developed by Google for light-weight 
 By following these steps, you can set up and start using Google Apps Script for your CodeChef Profile Tracker project.
 
 
-## License
+## License <a name="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
